@@ -18,7 +18,7 @@ function display() {
       console.log(data);
       armbalance.innerHTML = data.armbalance.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -26,7 +26,7 @@ function display() {
       });
       balancing.innerHTML = data.balancing.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -34,7 +34,7 @@ function display() {
       });
       standing.innerHTML = data.standing.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -42,7 +42,7 @@ function display() {
       });
       seated.innerHTML = data.seated.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -50,7 +50,7 @@ function display() {
       });
       core.innerHTML = data.core.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -58,7 +58,7 @@ function display() {
       });
       forwardbend.innerHTML = data.forwardbend.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -66,7 +66,7 @@ function display() {
       });
       twistingyoga.innerHTML = data.twistingyoga.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -74,7 +74,7 @@ function display() {
       });
       hipopening.innerHTML = data.hipopening.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
@@ -82,7 +82,7 @@ function display() {
       });
       backbend.innerHTML = data.backbend.map((element)=>{
         return `<div class="card m-3 mx-auto" style="width: 18rem;">
-        <img src="${element.img}" class="card-img-top" alt="...">
+        <img src="${element.img}" class="card-img-top" alt="error" onerror="this.src='assets/error.png'">
         <div class="card-body">
           <p class="card-title text-center"><b>${element.name}</b></p>
         </div>
