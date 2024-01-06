@@ -1,0 +1,236 @@
+{
+  "armbalance": [
+    {
+      "name": "Crow Pose",
+      "img": "assets/Poses/Armbalance/Crow-Crane-Pose.jpg"
+    },
+    {
+      "name": "Firefly Pose",
+      "img": "assets/Poses/Armbalance/Firefly-Pose.jpg"
+    },
+    {
+      "name": "Peacock Pose",
+      "img": "assets/Poses/Armbalance/Peacock-Pose.jpeg"
+    },
+    {
+      "name": "Scale Pose",
+      "img": "assets/Poses/Armbalance/Scale-Pose.jpg"
+    },
+    {
+      "name": "Eight Angle Pose",
+      "img": "assets/Poses/Armbalance/Eight-Angle-Pose.jpg"
+    },
+    {
+      "name": "Shoulder-Pressing Pose",
+      "img": "assets/Poses/Armbalance/Shoulder-Pressing.jpg"
+    }
+  ],
+  "balancing": [
+    {
+      "name": "Eagle Pose",
+      "img": "assets/Poses/Balancing/Eagle-Pose.jpg"
+    },
+    {
+      "name": "Half Moon Pose",
+      "img": "assets/Poses/Balancing/Half-Moon-Pose.jpg"
+    },
+    {
+      "name": "Handstand Pose",
+      "img": "assets/Poses/Balancing/Handstand-Pose.jpg"
+    },
+    {
+      "name": "Dancer Pose",
+      "img": "assets/Poses/Balancing/Dancer-Pose.jpg"
+    },
+    {
+      "name": "Warrior 3 Pose",
+      "img": "assets/Poses/Balancing/Warrior-3-Pose.jpg"
+    },
+    {
+      "name": "Supported Shoulderstand Pose",
+      "img": "assets/Poses/Balancing/Supported-Shoulderstand-Pose.jpg"
+    }
+  ],
+  "standing": [
+    {
+      "name": "Chair Pose",
+      "img": "assets/Poses/Standing/Chair-Pose.jpg"
+    },
+    {
+      "name": "Extended Side Angle Pose",
+      "img": "assets/Poses/Standing/Extended-Side-Angle-Pose.jpg"
+    },
+    {
+      "name": "Extended Triangle Pose",
+      "img": "assets/Poses/Standing/Extended-Triangle-Pose.jpg"
+    },
+    {
+      "name": "High Lunge Pose",
+      "img": "assets/Poses/Standing/High-Lunge-Pose.jpg"
+    },
+    {
+      "name": "Gate Pose",
+      "img": "assets/Poses/Standing/Gate-Pose.jpg"
+    },
+    {
+      "name": "Mountain Pose",
+      "img": "assets/Poses/Standing/Mountain-Pose.jpg"
+    }
+  ],
+  "seated": [
+    {
+      "name": "Easy Pose",
+      "img": "assets/poses/Seated/Easy-Pose.jpg"
+    },
+    {
+      "name": "Hero Pose",
+      "img": "assets/poses/Seated/Hero-Pose.jpg"
+    },
+    {
+      "name": "Lotus Pose",
+      "img": "assets/poses/Seated/Lotus-Pose.jpg"
+    },
+    {
+      "name": "Monkey Pose",
+      "img": "assets/poses/Seated/Monkey-Pose.jpg"
+    },
+    {
+      "name": "Wide Angle Seated Forward Bend Pose",
+      "img": "assets/poses/Seated/Wide-Angle-Seated-Forward-Bend.jpg"
+    },
+    {
+      "name": "Seated Forward Pose",
+      "img": "assets/poses/Seated/Seated-Forward.jpg"
+    }
+  ],
+  "core": [
+    {
+      "name": "Boat Pose",
+      "img": "assets/Poses/Core/Boat-Pose.jpg"
+    },
+    {
+      "name": "Dolphin Pose",
+      "img": "assets/Poses/Core/Dolphin-Pose.jpg"
+    },
+    {
+      "name": "Forearm Plank Pose",
+      "img": "assets/Poses/Core/Forearm-Plank-Pose.jpg"
+    },
+    {
+      "name": "Cat Pose",
+      "img": "assets/Poses/Core/Cat-Pose.jpg"
+    },
+    {
+      "name": "Crane Pose",
+      "img": "assets/Poses/Core/Crow-Crane-Pose.jpg"
+    },
+    {
+      "name": "Happy Baby Pose",
+      "img": "assets/Poses/Core/Happy-Baby-Pose.jpg"
+    }
+  ],
+  "forwardbend": [
+    {
+      "name": "Big Toe Pose",
+      "img": "assets/Poses/ForwardBend/Big-Toe-Pose.jpg"
+    },
+    {
+      "name": "Bound Angle Pose",
+      "img": "assets/Poses/ForwardBend/Bound-Angle-Pose.jpg"
+    },
+    {
+      "name": "Head-To-Knee Pose",
+      "img": "assets/Poses/ForwardBend/Head-To-Knee-Pose.jpg"
+    },
+    {
+      "name": "Pyramid Pose",
+      "img": "assets/Poses/ForwardBend/Pyramid-Pose.jpg"
+    },
+    {
+      "name": "Standing Forward Bend Pose",
+      "img": "assets/Poses/ForwardBend/Standing-Forward-Bend-Pose.jpg"
+    },
+    {
+      "name": "Seated Forward Bend Pose",
+      "img": "assets/Poses/ForwardBend/Seated-Forward.jpg"
+    }
+  ],
+  "twistingyoga": [
+    {
+      "name": "Bharadavaja's Twist Pose",
+      "img": "assets/Poses/TwistingYoga/Bharadavaja's-Twist-Pose.jpg"
+    },
+    {
+      "name": "Half Lord Of The Fishes Pose",
+      "img": "assets/Poses/TwistingYoga/Half-Lord-Of-The- Fishes-Pose.jpg"
+    },
+    {
+      "name": "Pose Dedicated To The Sage Marichi III",
+      "img": "assets/Poses/TwistingYoga/Pose Dedicated To The Sage Marichi III.jpg"
+    },
+    {
+      "name": "Rope Pose",
+      "img": "assets/Poses/TwistingYoga/Rope-Pose.jpg"
+    },
+    {
+      "name": "Revolved Head-To-Knee Pose",
+      "img": "assets/Poses/TwistingYoga/Revolved-Head-To-Knee-Pose.jpg"
+    },
+    {
+      "name": "Revolved Triangle Pose",
+      "img": "assets/Poses/TwistingYoga/Revolved-Triangle-Pose.jpg"
+    }
+  ],
+  "hipopening": [
+    {
+      "name": "Fire Log Pose",
+      "img": "assets/Poses/Hipopening/Fire-Log_pose.jpg"
+    },
+    {
+      "name": "Pose Dedicated To The Sage Marichi III",
+      "img": "assets/Poses/Hipopening/Pose Dedicated To The Sage Marichi III.jpg"
+    },
+    {
+      "name": "Pose Dedicated To The Sage Marichi I",
+      "img": "assets/Poses/Hipopening/Pose Dedicated To The Sage Marichi I.jpg"
+    },
+    {
+      "name": "Pigeon Pose",
+      "img": "assets/Poses/Hipopening/Pigeon-Pose.jpg"
+    },
+    {
+      "name": "Pose Dedicated To The Sage Marichi II",
+      "img": "assets/Poses/Hipopening/Pose Dedicated To The Sage Marichi II.jpg"
+    },
+    {
+      "name": "Cow Face Pose",
+      "img": "assets/Poses/Hipopening/Cow-Face-Pose.jpg"
+    }
+  ],
+  "backbend": [
+    {
+      "name": "Bow Pose",
+      "img": "assets/Poses/Backbend/Bow-Pose.jpg"
+    },
+    {
+      "name": "Bridge Pose",
+      "img": "assets/Poses/Backbend/Bridge-Pose.jpg"
+    },
+    {
+      "name": "Camel Pose",
+      "img": "assets/Poses/Backbend/Camel-Pose.jpg"
+    },
+    {
+      "name": "Cobra Pose",
+      "img": "assets/Poses/Backbend/Cobra-Pose.jpg"
+    },
+    {
+      "name": "Cow Pose",
+      "img": "assets/Poses/Backbend/Cow-Pose.jpg"
+    },
+    {
+      "name": "Locust Pose",
+      "img": "assets/Poses/Backbend/Locust-Pose.jpg"
+    }
+  ]
+}
